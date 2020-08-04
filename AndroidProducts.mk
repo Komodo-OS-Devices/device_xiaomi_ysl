@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/du_ysl.mk
+    $(LOCAL_DIR)/nad_ysl.mk
 
 COMMON_LUNCH_CHOICES := \
-    du_ysl-user \
-    du_ysl-userdebug \
-    du_ysl-eng \
+    nad_ysl-user \
+    nad_ysl-userdebug \
+    nad_ysl-eng \
